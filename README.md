@@ -26,7 +26,7 @@ This engine validates the constant against three distinct datasets:
     * **Result:** Noise reduction of **~15%** achieved on LIGO O3a data.
 
 ## Prediction
-We anticipate that vacuum memory effects will manifest in the LISA band as a colored noise floor characterized by a specific power-law slope of approximately -
+We anticipate that vacuum memory effects will manifest in the LISA band as a colored noise floor characterized by a specific power-law slope of approximately -0.35
 
 ## Usage
 
