@@ -24,6 +24,8 @@ This engine validates the constant against three distinct datasets:
     * **Hypothesis:** Gravitational wave detector noise (LIGO) is not random shot noise, but has a memory structure.
     * **Prediction:** An $\alpha=0.35$ filter will whiten the noise floor.
     * **Result:** Noise reduction of **~15%** achieved on LIGO O3a data.
+## Prediction
+UIP predicts that the noise floor of the future LISA gravitational wave observatory will exhibit a 'Pink Noise' power spectrum with a slope of S(f) \propto f^{-0.35}.
 
 ## Usage
 
