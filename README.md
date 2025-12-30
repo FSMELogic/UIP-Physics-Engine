@@ -1,7 +1,7 @@
 # UIP Physics Engine: The Universal Stiffness Constant
 
 **Version:** 1.0  
-**License:** GPL3.0
+**License:** GPL 3.0
 
 ## Overview
 This repository contains the validation suite for the **Unified Information Potential (UIP) Theory**. 
@@ -24,8 +24,10 @@ This engine validates the constant against three distinct datasets:
     * **Hypothesis:** Gravitational wave detector noise (LIGO) is not random shot noise, but has a memory structure.
     * **Prediction:** An $\alpha=0.35$ filter will whiten the noise floor.
     * **Result:** Noise reduction of **~15%** achieved on LIGO O3a data.
+
 ## Prediction
-The UIP framework predicts that the noise floor of the future LISA observatory will exhibit a fractional spectral density scaling as S(f) \propto f^{-0.35}.
+We anticipate that vacuum memory effects will manifest in the LISA band as a colored noise floor characterized by a specific power-law slope of approximately -
+
 ## Usage
 
 ### 1. Run the Demo
