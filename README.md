@@ -1,7 +1,7 @@
 # UIP Physics Engine: The Universal Stiffness Constant
 
 **Version:** 1.0  
-**License:** GNU 3.0
+**License:** GPL3.0
 
 ## Overview
 This repository contains the validation suite for the **Unified Information Potential (UIP) Theory**. 
